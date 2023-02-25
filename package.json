@@ -1,0 +1,18 @@
+{
+  "name": "cutaway",
+  "version": "3.0.0",
+  "private": true,
+  "description": "Log double in html",
+  "homepage": "https://github.com/thewhodidthis/cutaway#readme",
+  "bugs": "https://github.com/thewhodidthis/cutaway/issues",
+  "repository": "github:thewhodidthis/cutaway",
+  "license": "ISC",
+  "author": "Thepersonwhodidthis <thewhodidthis@fastmail.com> (http://thewhodidthis.com/)",
+  "engines": {
+    "node": ">=18.14.0",
+    "npm": ">=9.2.1"
+  },
+  "browser": "./main.js",
+  "type": "module",
+  "exports": "./main.js"
+}
